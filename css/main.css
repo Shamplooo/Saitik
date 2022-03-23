@@ -1,5 +1,5 @@
 header {
-    background-image: url(/img/12.jpg);
+    background-image: url(.../.../img/12.jpg);
     max-height: 350px;
     padding-top: 60px;
     padding-top: 60px;
@@ -24,7 +24,7 @@ h2 {
 }
 
 footer {
-    background-image: url(/img/12.jpg);
+    background-image: url(.../.../img/12.jpg);
     text-align: center;
     padding: 15px 0;
     border: 2px solid black;
